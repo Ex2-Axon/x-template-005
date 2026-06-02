@@ -1,0 +1,41 @@
+{
+  "day": 5,
+  "date": "2026-05-29",
+  "version": "1.5.0",
+  "project_name": "x-template-005",
+  "theme": {
+    "name": "Retro Terminal",
+    "style": "retro-terminal",
+    "mood": "monochrome, functional, nostalgic, command-line"
+  },
+  "palette": {
+    "background": "#0c0c0c",
+    "surface": "#111111",
+    "primary": "#00ff41",
+    "accent": "#00cc33",
+    "text": "#00ff41",
+    "muted": "#005c18"
+  },
+  "typography": {
+    "heading": "Share Tech Mono",
+    "body": "Share Tech Mono",
+    "size": "medium"
+  },
+  "layout": {
+    "structure": "centered",
+    "density": "compact",
+    "border_style": "1px solid green"
+  },
+  "animation": {
+    "level": "minimal",
+    "style": "cursor blink, typewriter"
+  },
+  "components": {
+    "hero_text": "BOOT",
+    "subtitle": "> system initialized. awaiting input_",
+    "button_label": "EXEC_",
+    "badge_text": "> STATUS: ONLINE"
+  },
+  "commit_message": "feat: UI Day 5 — Retro Terminal [fallback]",
+  "source": "fallback"
+}
